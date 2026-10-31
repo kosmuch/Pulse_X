@@ -1,0 +1,12 @@
+{
+  "key.category.pulse_x.main": "Pulse_X",
+  "key.pulse_x.open_menu": "Open Pulse_X menu",
+  "screen.pulse_x.title": "Pulse_X Settings",
+  "screen.pulse_x.subtitle": "Created by Kosmuch",
+  "pulse_x.option.no_camera_shake": "No Camera Shake",
+  "pulse_x.option.hide_nausea": "Hide Nausea Overlay",
+  "pulse_x.option.no_blindness_vignette": "No Blindness Vignette",
+  "pulse_x.option.no_darkness_vignette": "No Darkness Vignette",
+  "pulse_x.state.on": "ON",
+  "pulse_x.state.off": "OFF"
+}
