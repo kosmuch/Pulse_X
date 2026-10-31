@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "pulse_x",
+  "version": "${version}",
+  "name": "Pulse_X",
+  "description": "An independent client-side visual utility mod by Kosmuch.",
+  "authors": ["Kosmuch"],
+  "contact": {"sources": "https://github.com/kosmuch/Pulse_X"},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.kosmuch.pulsex.PulseXClient"]
+  },
+  "mixins": [
+    {"config": "pulse_x.client.mixins.json", "environment": "client"}
+  ],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
