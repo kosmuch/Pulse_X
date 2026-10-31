@@ -1,0 +1,12 @@
+{
+  "key.category.pulse_x.main": "Pulse_X",
+  "key.pulse_x.open_menu": "Открыть меню Pulse_X",
+  "screen.pulse_x.title": "Настройки Pulse_X",
+  "screen.pulse_x.subtitle": "Создатель: Kosmuch",
+  "pulse_x.option.no_camera_shake": "Отключить тряску камеры",
+  "pulse_x.option.hide_nausea": "Скрыть эффект тошноты на HUD",
+  "pulse_x.option.no_blindness_vignette": "Убрать затемнение слепоты",
+  "pulse_x.option.no_darkness_vignette": "Убрать затемнение темноты",
+  "pulse_x.state.on": "ВКЛ",
+  "pulse_x.state.off": "ВЫКЛ"
+}
